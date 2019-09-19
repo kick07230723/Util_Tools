@@ -7,7 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /*SQL문을 query에 넣고 돌리면 이클립스에서 돌리는 코드로 만들어서 toCode로 저장*/
-public class addMark {
+public class AddMark {
 	public static void SqlToCode() {
 
 		//file위치= 바탕화면
